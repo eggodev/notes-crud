@@ -10,7 +10,7 @@ import CreateUser from "./components/CreateUser";
 
 function App() {
   return (
-    <Router>
+    <Router basename={"/notes-crud"}>
       <Navigation />
       <div className="container p-4">
         <Route path="/" exact component={NotesLists} />
