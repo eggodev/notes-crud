@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eggodev.github.io/notes-crud/",
+  "homepage": "https://eggodev.github.io/notes-crud",
   "dependencies": {
     "axios": "^0.21.1",
     "bootstrap": "^5.0.1",
