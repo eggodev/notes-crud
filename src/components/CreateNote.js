@@ -60,7 +60,7 @@ export default class CreateNote extends Component {
         newNote
       );
     }
-    window.location.href = "/";
+    window.location.href = "/notes-crud";
   };
 
   onInputChange = (e) => {
