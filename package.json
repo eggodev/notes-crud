@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://eggodev.github.io/notescrud",
+  "homepage":"https://eggodev.github.io/notescrud/",
   "dependencies": {
     "axios": "^0.21.1",
     "bootstrap": "^5.0.1",
